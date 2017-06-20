@@ -1,0 +1,30 @@
+{
+  "name": "hearstautos_pingpong_ranking",
+  "version": "0.0.0",
+  "description": "An implementation of the elo rating algorithm in node.js, with a simple web interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhejna/hearstautos_pingpong_ranking.git"
+  },
+  "keywords": [
+    "elo",
+    "rating",
+    "ping",
+    "pong",
+    "ranking"
+  ],
+  "author": "Jason Hejna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonhejna/hearstautos_pingpong_ranking/issues"
+  },
+  "homepage": "https://github.com/jasonhejna/hearstautos_pingpong_ranking#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28"
+  }
+}
